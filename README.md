@@ -2,10 +2,11 @@
 
 ## My Projects:
 
-| Name                                                                                   | Description                                     |
-| -------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| [OWASP Web Security Testing Guide (fa-IR)](https://github.com/whoismh11/OWASP_WSTG_FA) | راهنمای آزمایش امنیت وب &#x202b;OWASP (فارسی) |
-| [PlutoT6 Scripts](https://github.com/whoismh11/PlutoT6_Scripts)                        | Plutonium T6 (BO2) Scripts                      |
-| [PlutoIW5 Scripts](https://github.com/whoismh11/PlutoIW5_Scripts)                      | Plutonium IW5 (MW3) Scripts                     |
-| [Discord Bot](https://github.com/whoismh11/Discord_Bot)                                | GAMEGG Discord Bot                              |
-| [Twitch Bot](https://github.com/whoismh11/Twitch_Bot)                                  | GAMEGG Twitch Bot                               |
+| Name                                                                                   | Description                                   | Technology | Price     |
+| -------------------------------------------------------------------------------------- | --------------------------------------------- | ---------- | --------- |
+| [OWASP Web Security Testing Guide (fa-IR)](https://github.com/whoismh11/OWASP_WSTG_FA) | راهنمای آزمایش امنیت وب &#x202b;OWASP (فارسی) | -          | Free      |
+| [PlutoT6 Scripts](https://github.com/whoismh11/PlutoT6_Scripts)                        | Plutonium T6 (BO2) Scripts                    | GSC        | Free      |
+| [PlutoIW5 Scripts](https://github.com/whoismh11/PlutoIW5_Scripts)                      | Plutonium IW5 (MW3) Scripts                   | GSC        | Free      |
+| [Discord Bot](https://github.com/whoismh11/Discord_Bot)                                | GAMEGG Discord Bot                            | JavaScript | Free      |
+| [Twitch Bot](https://github.com/whoismh11/Twitch_Bot)                                  | GAMEGG Twitch Bot                             | JavaScript | Free      |
+| [MTA:SA RPG Gamemode](https://gamegg.ir/files/file/11-mta-rpg-gamemode)                | GTA:SA MTA NaaB:RPG Gamemode                  | Lua        | 200,000 T |
