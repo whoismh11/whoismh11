@@ -10,4 +10,4 @@
 | [Discord Bot](https://github.com/whoismh11/Discord_Bot)                               | GAMEGG Discord Bot                                          | JavaScript | Free      |
 | [Twitch Bot](https://github.com/whoismh11/Twitch_Bot)                                 | GAMEGG Twitch Bot                                           | JavaScript | Free      |
 | [TeknoMW3 Adminmodes (Source)](https://gamegg.ir/files/file/21-teknomw3-admin-source) | TeknoGods MW3 MyAdmin & NaaBAdmin & NaaBAdminiSnipe Sources | C#         | 100,000 T |
-| [MTA:SA RPG Gamemode](https://gamegg.ir/files/file/11-mta-rpg-gamemode)               | GTA:SA MTA NaaB:RPG Gamemode (fa-IR)                        | Lua        | 200,000 T |
+| [MTA:SA RPG Gamemode](https://gamegg.ir/files/file/11-mta-rpg-gamemode)               | GTA:SA MTA NaaB:RPG Gamemode (fa-IR)                        | Lua        | 200,000&nbsp;T |
