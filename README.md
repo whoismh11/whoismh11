@@ -14,6 +14,6 @@
 | [TeknoMW3 Adminmodes](https://gamegg.ir/files/file/21-teknomw3-admin-source) | TeknoMW3 MyAdmin & NaaBAdmin & NaaBAdminiSnipe Sources | C#         | 100,000 T |
 | [MTA:SA RPG Gamemode](https://gamegg.ir/files/file/11-mta-rpg-gamemode)      | GTA:SA MTA NaaB:RPG Gamemode (fa-IR)                   | Lua        | 200,000 T |
 
-## Follow Me:
+## Contact:
 
 <a href="https://discord.gg/2JjvhAk">![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a>
