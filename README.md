@@ -16,6 +16,4 @@
 
 ## Follow Me:
 
-<a href="https://www.instagram.com/whoismh11">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-<a href="https://www.youtube.com/channel/UCHG3zfUqC-AYmcD7o8TCrDQ?sub_confirmation=1">![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
 <a href="https://discord.gg/2JjvhAk">![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a>
