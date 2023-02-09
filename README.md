@@ -17,4 +17,4 @@
 | [TeknoMW3 Adminmodes](https://gamegg.ir/files/file/21-teknomw3-admin-source) | TeknoMW3 MyAdmin & NaaBAdmin & NaaBAdminiSnipe Sources | C#         | 50,000 T  |
 | [MTA:SA RPG Gamemode](https://gamegg.ir/files/file/11-mta-rpg-gamemode)      | GTA:SA MTA NaaB:RPG Gamemode (fa-IR)                   | Lua        | 200,000 T |
 
-You can download the latest version of my CV from [here](assets/cv.pdf).
+You can see the latest version of my CV [here](assets/cv.pdf).
