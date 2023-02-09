@@ -1,4 +1,4 @@
-![Header MH11 GitHub](todoroki-header.jpg)
+![MH11's Header](assets/header.jpg)
 
 ## My Projects:
 
