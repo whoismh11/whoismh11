@@ -11,6 +11,7 @@
 | [Discord Bot](https://github.com/whoismh11/discord-bot)                      | GAMEGG Discord bot                                     | JavaScript      | Free      |
 | [Twitch Bot](https://github.com/whoismh11/twitch-bot)                        | GAMEGG Twitch bot                                      | JavaScript      | Free      |
 | [Tournaments Template](https://github.com/whoismh11/tournaments-template)    | GAMEGG Tournaments website template & web applications | HTML & CSS & JS | Free      |
+| [NaaB Clan Template](https://github.com/whoismh11/naabclan-template)         | NaaB Clan website template                             | HTML & CSS & JS | Free      |
 | [Smoke Template](https://github.com/whoismh11/smoke-template)                | Smoke website template                                 | HTML & CSS      | Free      |
 | [SMS Bomber](https://github.com/whoismh11/sms-bomber)                        | OTP SMS Bomber (+98)                                   | Python          | Free      |
 | [Microprocessor Lab](https://github.com/whoismh11/microprocessor-lab)        | Microprocessor Lab simple examples                     | C               | Free      |
