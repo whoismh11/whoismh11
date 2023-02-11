@@ -7,7 +7,6 @@
 | [OWASP WSTG (fa-IR)](https://github.com/whoismh11/owasp-wstg-fa)             | OWASP Web Security Testing Guide (fa-IR)               | -          | Free      |
 | [PlutoT6 Scripts](https://github.com/whoismh11/plutot6-scripts)              | Plutonium T6 (BO2) scripts                             | GSC        | Free      |
 | [PlutoIW5 Scripts](https://github.com/whoismh11/plutoiw5-scripts)            | Plutonium IW5 (MW3) scripts                            | GSC        | Free      |
-| [PlutoIW5 Infected Shop](https://github.com/naabclan/plutoiw5-inf-shop)      | Plutonium IW5 (MW3) map-edited Infected mode script    | GSC        | Free      |
 | [SA-MP Mapping](https://github.com/whoismh11/samp-mapping)                   | Some GTA:SA (SA-MP) map-edits                          | Pawn       | Free      |
 | [Discord Bot](https://github.com/whoismh11/discord-bot)                      | GAMEGG Discord bot                                     | JavaScript | Free      |
 | [Twitch Bot](https://github.com/whoismh11/twitch-bot)                        | GAMEGG Twitch bot                                      | JavaScript | Free      |
