@@ -19,5 +19,3 @@
 | [MTA:SA RPG Gamemode](https://gamegg.ir/files/file/11-mta-rpg-gamemode)      | GTA:SA MTA NaaB:RPG gamemode (fa-IR)                   | Lua             | 200,000 T |
 
 You can see the latest version of my CV [here](assets/cv.pdf).
-
-<a href="https://www.coffeete.ir/MH11"><img src="https://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" alt="Donate"></a>
