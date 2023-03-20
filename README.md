@@ -1,6 +1,12 @@
 ![MH11's Header](assets/xheader.jpg)
 
-## My Projects:
+## ABOUT ME
+
+I am a Computer Engineer preparing for my Master's degree. My interests are Computer and Network Security, Web Designing and Development, Web Security and Privacy, and Game Server Scripting.
+
+You can see the latest version of my CV [here](assets/cv.pdf).
+
+## MY PROJECTS
 
 | Name                                                                         | Description                                            | Technology      | Price     |
 | ---------------------------------------------------------------------------- | ------------------------------------------------------ | --------------- | --------- |
@@ -18,4 +24,4 @@
 | [TeknoMW3 Adminmodes](https://gamegg.ir/files/file/21-teknomw3-admin-source) | TeknoMW3 MyAdmin & NaaBAdmin & NaaBAdminiSnipe sources | C#              | 50,000 T  |
 | [MTA:SA RPG Gamemode](https://gamegg.ir/files/file/11-mta-rpg-gamemode)      | GTA:SA MTA NaaB:RPG gamemode (fa-IR)                   | Lua             | 200,000 T |
 
-You can see the latest version of my CV [here](assets/cv.pdf).
+Do you want to buy me coffee? [Donate (ZarinPal)](https://zarinp.al/whoismh11)
