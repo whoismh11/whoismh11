@@ -22,7 +22,7 @@ You can see the latest version of my CV [here](assets/cv.pdf).
 | [ParsVT Req Template](https://github.com/whoismh11/parsvt-requirements-template) | Get Ready for ParsVtiger template                      | HTML & CSS & JS | Free      |
 | [SMS Bomber](https://github.com/whoismh11/sms-bomber)                            | OTP SMS Bomber (+98)                                   | Python          | Free      |
 | [Microprocessor Lab](https://github.com/whoismh11/microprocessor-lab)            | Microprocessor Lab simple examples                     | C               | Free      |
-| [TeknoMW3 Adminmodes](https://gamegg.ir/files/file/21-teknomw3-admin-source)     | TeknoMW3 MyAdmin & NaaBAdmin & NaaBAdminiSnipe sources | C#              | 50,000 T  |
+| [TeknoMW3 Adminmodes](https://github.com/whoismh11/teknomw3-adminmodes)          | TeknoMW3 MyAdmin & NaaBAdmin & NaaBAdminiSnipe         | C#              | Free      |
 | [MTA:SA RPG Gamemode](https://gamegg.ir/files/file/11-mta-rpg-gamemode)          | GTA:SA MTA NaaB:RPG gamemode (fa-IR)                   | Lua             | 200,000 T |
 
 Do you want to buy me coffee? [Donate (ZarinPal)](https://zarinp.al/whoismh11)
