@@ -1,4 +1,4 @@
-![MH11's Header](assets/xheader.jpg)
+![MH11's Header](assets/header.jpg)
 
 ## ABOUT ME
 
