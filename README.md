@@ -21,6 +21,7 @@ You can see the latest version of my CV [here](assets/cv.pdf).
 | [Retro Design Template](https://github.com/whoismh11/retro-design-template)      | Retro Design website template                          | HTML, CSS, JS, PHP |
 | [Smoke Template](https://github.com/whoismh11/smoke-template)                    | Smoke website template                                 | HTML, CSS          |
 | [ParsVT Req Template](https://github.com/whoismh11/parsvt-requirements-template) | Get Ready for ParsVtiger template                      | PHP, HTML, CSS, JS |
+| [.htaccess Security](https://github.com/whoismh11/htaccess-security)             | Apache .htaccess file security config                  | Apache             |
 | [Discord Bot](https://github.com/whoismh11/discord-bot)                          | GAMEGG Discord bot                                     | JavaScript         |
 | [Twitch Bot](https://github.com/whoismh11/twitch-bot)                            | GAMEGG Twitch bot                                      | JavaScript         |
 | [SMS Bomber](https://github.com/whoismh11/sms-bomber)                            | OTP SMS Bomber (+98)                                   | Python             |
