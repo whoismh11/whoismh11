@@ -20,7 +20,7 @@ You can see the latest version of my CV [here](assets/cv.pdf).
 | [NaaB Clan Template](https://github.com/whoismh11/naabclan-template)             | NaaB Clan website template                             | HTML, CSS, JS      |
 | [Retro Design Template](https://github.com/whoismh11/retro-design-template)      | Retro Design website template                          | HTML, CSS, JS, PHP |
 | [Smoke Template](https://github.com/whoismh11/smoke-template)                    | Smoke website template                                 | HTML, CSS          |
-| [ParsVT Req Template](https://github.com/whoismh11/parsvt-requirements-template) | Get Ready for ParsVtiger template                      | PHP, HTML, CSS, JS |
+| [ParsVT Req Checker](https://github.com/whoismh11/parsvt-requirements-checker)   | Get Ready for ParsVtiger                               | PHP, HTML, CSS, JS |
 | [No Inspect](https://github.com/whoismh11/no-inspect)                            | No inspect JavaScript code                             | JavaScript         |
 | [.htaccess Security](https://github.com/whoismh11/htaccess-security)             | Apache .htaccess file security config                  | Apache             |
 | [Discord Bot](https://github.com/whoismh11/discord-bot)                          | GAMEGG Discord bot                                     | JavaScript         |
