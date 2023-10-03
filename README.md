@@ -2,7 +2,7 @@
 
 ## ABOUT ME
 
-I am a Computer Engineer preparing for my Master's degree. My interests are Computer and Network Security, Web Design and Development, Web Security and Privacy, and Game Server Scripting.
+I am a master's student in Artificial Intelligence. My interests are Artificial Intelligence, Internet of Things, Computer Networks, Computer Security, Web Design and Development, Web Security and Privacy, and Game Server Scripting.
 
 You can see the latest version of my CV [here](assets/cv.pdf).
 
