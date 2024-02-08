@@ -21,8 +21,8 @@ You can see the latest version of my CV [here](assets/cv.pdf).
 | [Retro Design Template](https://github.com/whoismh11/retro-design-template)      | Retro Design website template                          | HTML, CSS, JS, PHP |
 | [Smoke Template](https://github.com/whoismh11/smoke-template)                    | Smoke website template                                 | HTML, CSS          |
 | [ParsVT Requirements Checker](https://github.com/ParsVT/requirements-checker)    | ParsVT CRM requirements checker                        | PHP, HTML, CSS, JS |
-| [ParsVT Installer](https://github.com/ParsVT/linux-installer)                    | ParsVT CRM installation script                         | PHP, HTML, CSS, JS |
-| [ParsVT ionCube Installer](https://github.com/ParsVT/ioncube)                    | ParsVT ionCube loader installation script              | PHP, HTML, CSS, JS |
+| [ParsVT Installer](https://github.com/ParsVT/linux-installer)                    | ParsVT CRM installation script                         | Bash, Shell, PHP   |
+| [ParsVT ionCube Installer](https://github.com/ParsVT/ioncube)                    | ParsVT ionCube loader installation script              | Bash, Shell, PHP   |
 | [No Inspect](https://github.com/whoismh11/no-inspect)                            | No inspect JavaScript code                             | JavaScript         |
 | [.htaccess Security](https://github.com/whoismh11/htaccess-security)             | Apache .htaccess file security config                  | Apache             |
 | [Discord Bot](https://github.com/whoismh11/discord-bot)                          | GAMEGG Discord bot                                     | JavaScript         |
