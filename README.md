@@ -23,6 +23,7 @@ You can see the latest version of my CV [here](assets/cv.pdf).
 | [ParsVT Requirements Checker](https://github.com/ParsVT/requirements-checker) | ParsVT CRM requirements checker                   | PHP, HTML, CSS, JS |
 | [ParsVT Installer](https://github.com/ParsVT/linux-installer)                 | ParsVT CRM installation script                    | Bash, Shell, PHP   |
 | [ParsVT ionCube Installer](https://github.com/ParsVT/ioncube)                 | ParsVT ionCube loader installation script         | Bash, Shell, PHP   |
+| [Dark Mode](https://github.com/whoismh11/dark-mode)                           | Easy dark mode for websites with one line CSS     | CSS                |
 | [No Inspect](https://github.com/whoismh11/no-inspect)                         | No inspect JavaScript code                        | JavaScript         |
 | [.htaccess Security](https://github.com/whoismh11/htaccess-security)          | .htaccess security config                         | Apache             |
 | [Discord Bot](https://github.com/whoismh11/discord-bot)                       | GAMEGG Discord bot                                | JavaScript         |
