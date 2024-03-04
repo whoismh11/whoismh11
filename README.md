@@ -30,5 +30,6 @@ You can see the latest version of my CV [here](assets/cv.pdf).
 | [Twitch Bot](https://github.com/whoismh11/twitch-bot)                         | GAMEGG Twitch bot                                 | JavaScript         |
 | [SMS Bomber](https://github.com/whoismh11/sms-bomber)                         | OTP SMS Bomber (+98)                              | Python             |
 | [Microprocessor Lab](https://github.com/whoismh11/microprocessor-lab)         | Microprocessor Lab simple examples                | C                  |
+| [Computer Vision](https://github.com/whoismh11/computer-vision)               | Computer Vision simple examples                   | Python             |
 
 Do you want to buy me coffee? [Donate (ZarinPal)](https://zarinp.al/whoismh11)
