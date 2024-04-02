@@ -4,11 +4,9 @@
 
 I am a master's student in Artificial Intelligence. My interests are Artificial Intelligence, Internet of Things, Computer Networks, Computer Security, Web Design and Development, Web Security and Privacy, and Game Server Scripting.
 
-You can see the latest version of my CV [here](assets/cv.pdf).
+> You can see the latest version of my CV [here](assets/cv.pdf).
 
 ## MY PROJECTS
-
-<div style=min-width: 500px !important;">
 
 #### RESEARCH AND TRANSLATION
 
@@ -66,7 +64,5 @@ You can see the latest version of my CV [here](assets/cv.pdf).
 | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------- |
 | **[SMS Bomber](https://github.com/whoismh11/sms-bomber)**                                       | OTP SMS Bomber (+98)                                      | `Python`   |
 | **[Dark/Light Inverter Extension](https://github.com/whoismh11/dark-light-inverter-extension)** | Dark/light mode inverter extension for Firefox and Chrome | `JS`       |
-
-</div>
 
 Do you want to buy me coffee? [Donate (ZarinPal)](https://zarinp.al/whoismh11)
