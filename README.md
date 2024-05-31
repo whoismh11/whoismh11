@@ -63,6 +63,5 @@ I am a master's student in Artificial Intelligence. My interests are Artificial 
 | Name                                                                                            | Description                                               | Technology |
 | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------- |
 | **[SMS Bomber](https://github.com/whoismh11/sms-bomber)**                                       | OTP SMS Bomber (+98)                                      | Python     |
-| **[Dark/Light Inverter Extension](https://github.com/whoismh11/dark-light-inverter-extension)** | Dark/light mode inverter extension for Firefox and Chrome | JavaScript |
 
 Do you want to buy me coffee? [Donate (ZarinPal)](https://zarinp.al/whoismh11)
