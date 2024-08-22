@@ -42,7 +42,6 @@ I am a master's student in Artificial Intelligence. My interests are Artificial 
 | --------------------------------------------------------------------------------- | ----------------------------------------- | ------------------ |
 | **[ParsVT Requirements Checker](https://github.com/ParsVT/requirements-checker)** | ParsVT CRM requirements checker           | PHP, HTML, CSS, JS |
 | **[ParsVT Installer](https://github.com/ParsVT/linux-installer)**                 | ParsVT CRM installation script            | Bash, Shell, PHP   |
-| **[ParsVT ionCube Installer](https://github.com/ParsVT/ioncube)**                 | ParsVT ionCube loader installation script | Bash, Shell, PHP   |
 
 #### BOT DEVELOPMENT
 
