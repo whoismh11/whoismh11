@@ -16,15 +16,15 @@ I am a master's student in Artificial Intelligence. My interests are Artificial 
 
 #### WEB DESIGN AND DEVELOPMENT
 
-| Name                                                                            | Description                                       | Technology         |
-| ------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------ |
-| **[Tournaments Template](https://github.com/whoismh11/tournaments-template)**   | GAMEGG Tournaments template with web applications | HTML, CSS, JS      |
-| **[NaaB Clan Template](https://github.com/whoismh11/naabclan-template)**        | NaaB Clan website template                        | HTML, CSS, JS      |
-| **[Retro Design Template](https://github.com/whoismh11/retro-design-template)** | Retro Design website template                     | HTML, CSS, JS, PHP |
-| **[Smoke Template](https://github.com/whoismh11/smoke-template)**               | Smoke website template                            | HTML, CSS          |
-| **[Dark Mode](https://github.com/whoismh11/dark-mode)**                         | Easy dark mode for websites with one line CSS     | CSS                |
-| **[No Inspect](https://github.com/whoismh11/no-inspect)**                       | No inspect JavaScript code                        | JavaScript         |
-| **[.htaccess Security](https://github.com/whoismh11/htaccess-security)**        | .htaccess security config                         | Apache             |
+| Name                                                                                         | Description                                                | Technology         |
+| -------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------------ |
+| **[Tournaments Template](https://github.com/whoismh11/tournaments-template)**                | GAMEGG Tournaments template with web applications          | HTML, CSS, JS      |
+| **[NaaB Clan Template](https://github.com/whoismh11/naabclan-template)**                     | NaaB Clan website template                                 | HTML, CSS, JS      |
+| **[Retro Design Template](https://github.com/whoismh11/retro-design-template)**              | Retro Design website template                              | HTML, CSS, JS, PHP |
+| **[Smoke Template](https://github.com/whoismh11/smoke-template)**                            | Smoke website template                                     | HTML, CSS          |
+| **[Dark Mode](https://gist.github.com/whoismh11/8575584bb25cd052ff7920f910c779d9)**          | Easy dark mode with one line CSS for websites              | CSS                |
+| **[No Inspect](https://gist.github.com/whoismh11/0411cf05fb852e8112354151fbc2ba90)**         | No right click and no inspect JavaScript code for websites | JavaScript         |
+| **[.htaccess Security](https://gist.github.com/whoismh11/e1092cc584297a6c01c7d00961721d24)** | Apache .htaccess file security config                      | Apache             |
 
 #### GAME SERVER SCRIPTING
 
