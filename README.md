@@ -52,11 +52,13 @@ Offense-informed defense, shipped as real software and interfaces: a security kn
 
 ## `$ find ./work`
 
-**Security** — [.htaccess](https://gist.github.com/whoismh11/e1092cc584297a6c01c7d00961721d24) Apache hardening · [No Inspect](https://gist.github.com/whoismh11/0411cf05fb852e8112354151fbc2ba90) client-side deterrent (+ OWASP WSTG in flagship)
-**Engineering** — [Retro Design](https://github.com/whoismh11/retro-design-template) site template · [Smoke](https://github.com/whoismh11/smoke-template) lightweight template · [Dark Mode](https://gist.github.com/whoismh11/8575584bb25cd052ff7920f910c779d9) one-line CSS · [ParsVT Checker](https://github.com/ParsVT/requirements-checker) CRM preflight · [ParsVT Installer](https://github.com/ParsVT/linux-installer) deploy automation · [Discord](https://github.com/whoismh11/discord-bot) / [Twitch](https://github.com/whoismh11/twitch-bot) bots (+ Tournaments in flagship)
-**Game servers** — [PlutoIW5](https://github.com/whoismh11/plutoiw5-scripts) MW3 scripts · [TeknoMW3](https://github.com/whoismh11/teknomw3-adminmodes) C# admin modes · [SA-MP Mapping](https://github.com/whoismh11/samp-mapping) map edits (+ MTA:RPG, PlutoT6 in flagship)
-**Lab** — [Computer Vision](https://github.com/whoismh11/computer-vision) experiments · [Microprocessor Lab](https://github.com/whoismh11/microprocessor-lab) low-level C
-**Archive** — [SMS Bomber](https://github.com/whoismh11/sms-bomber) legacy experiment, kept for history
+| Domain | Selected work |
+| --- | --- |
+| Security | [.htaccess](https://gist.github.com/whoismh11/e1092cc584297a6c01c7d00961721d24) Apache hardening · [No Inspect](https://gist.github.com/whoismh11/0411cf05fb852e8112354151fbc2ba90) client-side deterrent (+ OWASP WSTG in flagship) |
+| Engineering | [Retro Design](https://github.com/whoismh11/retro-design-template) site template · [Smoke](https://github.com/whoismh11/smoke-template) lightweight template · [Dark Mode](https://gist.github.com/whoismh11/8575584bb25cd052ff7920f910c779d9) one-line CSS · [ParsVT Checker](https://github.com/ParsVT/requirements-checker) CRM preflight · [ParsVT Installer](https://github.com/ParsVT/linux-installer) deploy automation · [Discord](https://github.com/whoismh11/discord-bot) / [Twitch](https://github.com/whoismh11/twitch-bot) bots (+ Tournaments in flagship) |
+| Game servers | [PlutoIW5](https://github.com/whoismh11/plutoiw5-scripts) MW3 scripts · [TeknoMW3](https://github.com/whoismh11/teknomw3-adminmodes) C# admin modes · [SA-MP Mapping](https://github.com/whoismh11/samp-mapping) map edits (+ MTA:RPG, PlutoT6 in flagship) |
+| Lab | [Computer Vision](https://github.com/whoismh11/computer-vision) experiments · [Microprocessor Lab](https://github.com/whoismh11/microprocessor-lab) low-level C |
+| Archive | [SMS Bomber](https://github.com/whoismh11/sms-bomber) legacy experiment, kept for history |
 
 ## `$ systemctl status mh11`
 
