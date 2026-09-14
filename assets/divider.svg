@@ -7,5 +7,7 @@
     </linearGradient>
   </defs>
   <rect x="0" y="6" width="1200" height="2" fill="url(#d)"/>
-  <rect x="594" y="3" width="12" height="8" fill="#00e676" opacity="0.8" transform="rotate(45 600 7)"/>
+  <rect x="594" y="3" width="12" height="8" fill="#00e676" opacity="0.8" transform="rotate(45 600 7)">
+    <animate attributeName="opacity" values="0.8;0.25;0.8" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
 </svg>
