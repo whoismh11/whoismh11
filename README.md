@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Cybersecurity · Software Development · Web Design</b>
+  <b>Cybersecurity · Software &amp; Web Development · Networks</b>
   <br />
   <sub>Founder &amp; CEO @ <a href="https://naabtech.ir">NaaB Tech</a> — I break web apps (legally), harden them, and ship software around them.</sub>
 </p>
@@ -12,6 +12,7 @@
   <a href="https://mh11.ir"><img src="https://img.shields.io/badge/mh11.ir-0d1117?style=flat-square&logo=googlechrome&logoColor=00e676" alt="Website" /></a>
   <a href="https://naabtech.ir"><img src="https://img.shields.io/badge/NaaB_Tech-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0MiIgZmlsbD0iIzAwZTY3NiIvPjwvc3ZnPg==" alt="NaaB Tech" /></a>
   <a href="https://linkedin.com/in/whoismh11"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/whoismh11"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="assets/cv.pdf"><img src="https://img.shields.io/badge/CV-0d1117?style=flat-square&logo=adobeacrobatreader&logoColor=00e676" alt="CV" /></a>
 </p>
 
@@ -24,9 +25,9 @@ MH11 — Mohammad Hadadpour
 $ focus --current
 [ok] web-security      # OWASP WSTG Persian translation, app hardening
 [ok] software          # web platforms, tooling, automation
-[ok] web-design        # interfaces, templates, front-end build
+[ok] web-development   # full-stack build, interfaces, templates
 [ok] game-servers      # MTA:SA, Plutonium, TeknoMW3 engineering
-[ok] systems & linux   # infra, deployment, self-hosting
+[ok] systems & linux   # infra, networks, self-hosting
 ```
 
 Offense-informed defense, shipped as real software and interfaces: a security knowledge base for Persian-speaking testers next to full game-server platforms, production tooling, and hand-built web front-ends — personal R&D under my own ecosystem, **NaaB Tech**.
@@ -45,7 +46,7 @@ Offense-informed defense, shipped as real software and interfaces: a security kn
 </p>
 
 - **Security & Systems** — `OWASP` `Linux` `Bash` `Apache` `Git`
-- **Web Design & Development** — `HTML/CSS` `JavaScript` `jQuery` `PHP` `MySQL` `Node.js`
+- **Web Development & Design** — `HTML/CSS` `JavaScript` `jQuery` `PHP` `MySQL` `Node.js`
 - **Software Engineering** — `Python` `C` `C#` `Lua` `Pawn` `GSC`
 - **Game Servers & Lab** — `MTA` `Plutonium` `TeknoMW3` `SA-MP` `Jupyter`
 
@@ -68,8 +69,6 @@ Offense-informed defense, shipped as real software and interfaces: a security kn
     <img src="https://raw.githubusercontent.com/whoismh11/whoismh11/output/github-snake.svg" alt="Contribution snake" width="100%" />
   </picture>
 </p>
-
-<sub>Snake regenerates nightly via <a href=".github/workflows/snake.yml">GitHub Actions</a>.</sub>
 
 ## `$ cat /etc/naab`
 
