@@ -46,7 +46,7 @@ I operate at the intersection of **offense-informed defense and shipping real so
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/whoismh11/owasp-wstg-fa">OWASP WSTG (fa-IR)</a></b> <sub>★ 26 · ⑂ 4</sub>
+      <b><a href="https://github.com/whoismh11/owasp-wstg-fa">OWASP WSTG (fa-IR)</a></b> <sub>★ 26 · 4 forks</sub>
       <br />
       <sub>The official Persian translation of the OWASP Web Security Testing Guide — listed in the upstream project. 500+ commits of security knowledge, in Farsi.</sub>
       <br />
@@ -55,7 +55,7 @@ I operate at the intersection of **offense-informed defense and shipping real so
       <sub><a href="https://github.com/whoismh11/owasp-wstg-fa">repo</a> · <a href="https://owasp.org/www-project-web-security-testing-guide">upstream</a></sub>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/whoismh11/mta-naabrpg-gamemode">MTA NaaB:RPG Gamemode</a></b> <sub>★ 12 · ⑂ 7</sub>
+      <b><a href="https://github.com/whoismh11/mta-naabrpg-gamemode">MTA NaaB:RPG Gamemode</a></b> <sub>★ 12 · 7 forks</sub>
       <br />
       <sub>Full-featured Persian GTA:SA (MTA) role-play server: MySQL persistence, jobs, banking, housing, VIP tiers, admin panel. A complete multiplayer product.</sub>
       <br />
@@ -68,7 +68,7 @@ I operate at the intersection of **offense-informed defense and shipping real so
     <td width="50%" valign="top">
       <b><a href="https://github.com/whoismh11/tournaments-template">Tournaments Template</a></b> <sub>★ 8</sub>
       <br />
-      <sub>Tournament operations platform template — brackets plus two working web apps: Random Name Picker and Random Team Generator.</sub>
+      <sub>Tournament site template with two working web apps: Random Name Picker and Random Team Generator.</sub>
       <br />
       <sub><code>html</code> <code>css</code> <code>js</code> <code>jquery</code></sub>
       <br />
@@ -77,7 +77,7 @@ I operate at the intersection of **offense-informed defense and shipping real so
     <td width="50%" valign="top">
       <b><a href="https://github.com/whoismh11/plutot6-scripts">PlutoT6 Scripts</a></b> <sub>★ 6</sub>
       <br />
-      <sub>Script collection for Plutonium T6 (Black Ops 2) dedicated servers — gameplay mods and server-side utilities.</sub>
+      <sub>GSC script collection for Plutonium T6 (Black Ops 2) game servers.</sub>
       <br />
       <sub><code>gsc</code> <code>plutonium</code> <code>cod</code></sub>
       <br />
@@ -138,10 +138,6 @@ I operate at the intersection of **offense-informed defense and shipping real so
 ## `$ systemctl status mh11 --live`
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=whoismh11&show_icons=true&theme=transparent&title_color=00e676&icon_color=00e676&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoismh11&layout=compact&theme=transparent&title_color=00e676&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Top languages" />
-</p>
-<p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=whoismh11&theme=transparent&ring=00e676&fire=00e676&currStreakNum=00e676&currStreakLabel=00e676&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&background=0d1117&border_radius=8&hide_border=true" alt="Contribution streak" />
 </p>
 <p align="center">
@@ -150,6 +146,8 @@ I operate at the intersection of **offense-informed defense and shipping real so
     <img src="https://raw.githubusercontent.com/whoismh11/whoismh11/output/github-snake.svg" alt="Contribution snake" width="100%" />
   </picture>
 </p>
+
+<sub>The snake is generated inside this repo by <a href=".github/workflows/snake.yml">GitHub Actions</a> — nothing here breaks when a stats service goes down.</sub>
 
 ## `$ cat ./ecosystem`
 
