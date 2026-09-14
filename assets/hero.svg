@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" font-family="'Cascadia Code','JetBrains Mono',Consolas,Menlo,monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b100c"/>
+      <stop offset="0.55" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#0a0f0d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00e676" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00e676"/>
+      <stop offset="1" stop-color="#00e676" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.25" r="0.55">
+      <stop offset="0" stop-color="#00e676" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#00e676" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1278" height="378" rx="16" fill="url(#bg)" stroke="#21262d" stroke-width="2"/>
+  <rect x="1" y="1" width="1278" height="378" rx="16" fill="url(#glow)"/>
+
+  <!-- faint matrix watermark -->
+  <text x="1050" y="330" font-size="150" fill="#00e676" opacity="0.05" font-weight="bold">&gt;_</text>
+  <text x="60" y="120" font-size="15" fill="#00e676" opacity="0.10">01001101 01001000 00110001 00110001</text>
+
+  <!-- window chrome -->
+  <circle cx="48" cy="46" r="9" fill="#ff5f57" opacity="0.85"/>
+  <circle cx="76" cy="46" r="9" fill="#febc2e" opacity="0.85"/>
+  <circle cx="104" cy="46" r="9" fill="#28c840" opacity="0.85"/>
+  <text x="640" y="52" font-size="17" fill="#8b949e" text-anchor="middle">root@mh11: ~</text>
+  <text x="1216" y="52" font-size="15" fill="#00e676" text-anchor="end">● ONLINE</text>
+
+  <line x1="24" y1="72" x2="1256" y2="72" stroke="#21262d" stroke-width="1"/>
+
+  <!-- terminal body -->
+  <text x="56" y="122" font-size="21" fill="#00e676">root@mh11:~# <tspan fill="#e6edf3">whoami</tspan></text>
+
+  <text x="56" y="182" font-size="46" fill="#f0f6fc" font-weight="bold">MH11 <tspan font-size="24" fill="#8b949e" font-weight="normal">/ Mohammad Hadadpour</tspan></text>
+
+  <text x="56" y="230" font-size="23" fill="#00e676">Cybersecurity  •  Software Engineering  •  AI  •  Networks</text>
+
+  <text x="56" y="272" font-size="20" fill="#8b949e">Founder &amp; CEO @ NaaB Tech   <tspan fill="#30363d">|</tspan>   mh11.ir</text>
+
+  <text x="56" y="322" font-size="20" fill="#00e676">$ <tspan fill="#8b949e">status ── </tspan><tspan fill="#e6edf3">secure · shipping · open-source</tspan></text>
+  <rect x="586" y="304" width="13" height="24" fill="#00e676">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="24" y="356" width="1232" height="2" fill="url(#accent)" opacity="0.7"/>
+</svg>
