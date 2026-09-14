@@ -3,16 +3,15 @@
 </p>
 
 <p align="center">
-  <b>Cybersecurity · Software Engineering · AI · Networks</b>
+  <b>Cybersecurity · Software Development · Web Design</b>
   <br />
   <sub>Founder &amp; CEO @ <a href="https://naabtech.ir">NaaB Tech</a> — I break web apps (legally), harden them, and ship software around them.</sub>
 </p>
 
 <p align="center">
   <a href="https://mh11.ir"><img src="https://img.shields.io/badge/mh11.ir-0d1117?style=flat-square&logo=googlechrome&logoColor=00e676" alt="Website" /></a>
-  <a href="https://naabtech.ir"><img src="https://img.shields.io/badge/NaaB_Tech-0d1117?style=flat-square&logo=linux&logoColor=00e676" alt="NaaB Tech" /></a>
+  <a href="https://naabtech.ir"><img src="https://img.shields.io/badge/NaaB_Tech-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0MiIgZmlsbD0iIzAwZTY3NiIvPjwvc3ZnPg==" alt="NaaB Tech" /></a>
   <a href="https://linkedin.com/in/whoismh11"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://discord.gg/2JjvhAk"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="assets/cv.pdf"><img src="https://img.shields.io/badge/CV-0d1117?style=flat-square&logo=adobeacrobatreader&logoColor=00e676" alt="CV" /></a>
 </p>
 
@@ -25,14 +24,12 @@ MH11 — Mohammad Hadadpour
 $ focus --current
 [ok] web-security      # OWASP WSTG Persian translation, app hardening
 [ok] software          # web platforms, tooling, automation
+[ok] web-design        # interfaces, templates, front-end build
 [ok] game-servers      # MTA:SA, Plutonium, TeknoMW3 engineering
 [ok] systems & linux   # infra, deployment, self-hosting
-[..] ai                # computer-vision lab, active track
 ```
 
-Offense-informed defense, shipped as real software: a security knowledge base for Persian-speaking testers next to full game-server platforms and production tooling — personal R&D under my own ecosystem, **NaaB Tech**.
-
-<img src="assets/divider.svg" width="100%" alt="" />
+Offense-informed defense, shipped as real software and interfaces: a security knowledge base for Persian-speaking testers next to full game-server platforms, production tooling, and hand-built web front-ends — personal R&D under my own ecosystem, **NaaB Tech**.
 
 ## `$ ls ~/flagship`
 
@@ -48,10 +45,9 @@ Offense-informed defense, shipped as real software: a security knowledge base fo
 </p>
 
 - **Security & Systems** — `OWASP` `Linux` `Bash` `Apache` `Git`
-- **Engineering & Web** — `Python` `C` `C#` `Lua` `PHP` `JavaScript` `Node.js` `jQuery` `HTML/CSS` `MySQL`
-- **AI & Game Servers** — `Computer Vision / Jupyter` `MTA` `Plutonium` `TeknoMW3` `SA-MP` `Pawn` `GSC`
-
-<img src="assets/divider.svg" width="100%" alt="" />
+- **Web Design & Development** — `HTML/CSS` `JavaScript` `jQuery` `PHP` `MySQL` `Node.js`
+- **Software Engineering** — `Python` `C` `C#` `Lua` `Pawn` `GSC`
+- **Game Servers & Lab** — `MTA` `Plutonium` `TeknoMW3` `SA-MP` `Jupyter`
 
 ## `$ find ./work`
 
@@ -60,8 +56,6 @@ Offense-informed defense, shipped as real software: a security knowledge base fo
 **Game servers** — [PlutoIW5](https://github.com/whoismh11/plutoiw5-scripts) MW3 scripts · [TeknoMW3](https://github.com/whoismh11/teknomw3-adminmodes) C# admin modes · [SA-MP Mapping](https://github.com/whoismh11/samp-mapping) map edits (+ MTA:RPG, PlutoT6 in flagship)
 **Lab** — [Computer Vision](https://github.com/whoismh11/computer-vision) experiments · [Microprocessor Lab](https://github.com/whoismh11/microprocessor-lab) low-level C
 **Archive** — [SMS Bomber](https://github.com/whoismh11/sms-bomber) legacy experiment, kept for history
-
-<img src="assets/divider.svg" width="100%" alt="" />
 
 ## `$ systemctl status mh11`
 
@@ -87,9 +81,9 @@ Offense-informed defense, shipped as real software: a security knowledge base fo
 
 ## `$ cat ./contact`
 
-[mh11.ir](https://mh11.ir) · [naabtech.ir](https://naabtech.ir) · [LinkedIn](https://linkedin.com/in/whoismh11) · [Discord](https://discord.gg/2JjvhAk) · [YouTube](https://youtube.com/@whoismh11) · [Instagram](https://instagram.com/whoismh11) · [CV](assets/cv.pdf)
+[mh11.ir](https://mh11.ir) · [naabtech.ir](https://naabtech.ir) · [LinkedIn](https://linkedin.com/in/whoismh11) · [Instagram](https://instagram.com/whoismh11) · [YouTube](https://youtube.com/@whoismh11) · [CV](assets/cv.pdf)
 
-Best first contact: **LinkedIn** or **Discord**.
+Best first contact: **LinkedIn**.
 
 ```text
 [root@mh11 ~]# exit

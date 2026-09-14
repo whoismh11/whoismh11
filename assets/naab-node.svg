@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" font-family="'Cascadia Code','JetBrains Mono',Consolas,Menlo,monospace" role="img">
-  <title>MH11 to NaaB Tech ecosystem diagram: founder node connecting to security, engineering, and AI branches</title>
+  <title>MH11 to NaaB Tech ecosystem diagram: founder node connecting to security, engineering, and web design branches</title>
   <defs>
     <linearGradient id="node-border" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#00e676"/>
@@ -43,8 +43,8 @@
   <text x="1138" y="133" font-size="14" fill="#8b949e" text-anchor="end">platforms · tooling · bots</text>
 
   <rect x="700" y="160" width="460" height="48" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
-  <text x="722" y="190" font-size="17" font-weight="bold" fill="#00e676">AI + SYSTEMS</text>
-  <text x="1138" y="189" font-size="14" fill="#8b949e" text-anchor="end">vision lab · linux infra</text>
+  <text x="722" y="190" font-size="17" font-weight="bold" fill="#00e676">WEB &amp; DESIGN</text>
+  <text x="1138" y="189" font-size="14" fill="#8b949e" text-anchor="end">templates · ui · front-end</text>
 
   <!-- staggered status pulses -->
   <circle cx="665" cy="86" r="5" fill="#00e676">
