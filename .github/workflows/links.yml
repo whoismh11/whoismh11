@@ -1,0 +1,45 @@
+name: Check links
+
+on:
+  push:
+    paths:
+      - "README.md"
+      - ".github/workflows/links.yml"
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: links
+  cancel-in-progress: true
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Check README and SVG links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # Self-hosted .ir sites often 504/timeout from GitHub runners
+          # (Iran hosting blocks foreign IPs) and social networks block
+          # bot HEAD requests (405/403/429) — exclude them to avoid noise.
+          # They are still kept as links in README for human visitors.
+          args: >-
+            --verbose
+            --no-progress
+            --exclude-mail
+            --max-retries 2
+            --exclude '^https?://(www\.)?(mh11|naabclan|naabtech)\.ir'
+            --exclude '^https?://(www\.)?linkedin\.com'
+            --exclude '^https?://(www\.)?instagram\.com'
+            --exclude '^https?://(www\.)?youtube\.com'
+            README.md
+            assets/hero.svg
+            assets/naab-node.svg
