@@ -1,106 +1,67 @@
-<p align="center">
-  <img src="assets/header.jpg" alt="MH11 — NaaB banner" width="100%" />
-</p>
+![MH11's Header](assets/header.jpg)
 
-<p align="center">
-  <img src="assets/hero.svg" alt="MH11 status bar — cybersecurity, software and web development, networks" width="100%" />
-</p>
+## ABOUT ME
 
-<p align="center">
-  <sub>Founder &amp; CEO @ <a href="https://naabtech.ir">NaaB Tech</a> — I break web apps (legally), harden them, and ship software around them.</sub>
-</p>
+I am a master's student in Artificial Intelligence. My interests are Artificial Intelligence, Internet of Things, Computer Networks, Computer Security, Web Design and Development, Web Security and Privacy, and Game Server Scripting.
 
-<p align="center">
-  <sub><a href="https://mh11.ir">mh11.ir</a> · <a href="https://naabtech.ir">naabtech.ir</a> · <a href="https://www.linkedin.com/in/whoismh11">linkedin</a> · <a href="https://www.instagram.com/whoismh11">instagram</a> · <a href="https://www.youtube.com/@whoismh11">youtube</a> · <a href="assets/cv.pdf">cv</a></sub>
-</p>
+> You can see the latest version of my CV [here](assets/cv.pdf).
 
-## `$ whoami`
+## MY PROJECTS
 
-```bash
-$ whoami
-MH11 — Mohammad Hadadpour
+#### RESEARCH AND TRANSLATION
 
-$ focus --current
-[ok] web-security      # OWASP WSTG Persian translation, app hardening
-[ok] software          # web platforms, tooling, automation
-[ok] web-development   # full-stack build, interfaces, templates
-[ok] game-servers      # MTA:SA, Plutonium, TeknoMW3 engineering
-[ok] systems & linux   # infra, networks, self-hosting
-```
+| Name                                                                 | Description                              | Technology |
+| -------------------------------------------------------------------- | ---------------------------------------- | ---------- |
+| **[OWASP WSTG (fa-IR)](https://github.com/whoismh11/owasp-wstg-fa)** | OWASP Web Security Testing Guide (fa-IR) | -          |
 
-Offense-informed defense, shipped as real software and interfaces: a security knowledge base for Persian-speaking testers next to full game-server platforms, production tooling, and hand-built web front-ends — personal R&D under my own ecosystem, **NaaB Tech**.
+#### WEB DESIGN AND DEVELOPMENT
 
-## `~/flagship`
+| Name                                                                                         | Description                                                | Technology         |
+| -------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------------ |
+| **[Tournaments Template](https://github.com/whoismh11/tournaments-template)**                | GAMEGG Tournaments template with web applications          | HTML, CSS, JS      |
+| **[NaaB Clan Template](https://naabclan.ir)**                                                | NaaB Clan website template                                 | HTML, CSS, JS      |
+| **[MH11 Template](https://mh11.ir)**                                                         | whoismh11 website template                                 | HTML, CSS, JS      |
+| **[Retro Design Template](https://github.com/whoismh11/retro-design-template)**              | Retro Design website template                              | HTML, CSS, JS, PHP |
+| **[Smoke Template](https://github.com/whoismh11/smoke-template)**                            | Smoke website template                                     | HTML, CSS          |
+| **[Dark Mode](https://gist.github.com/whoismh11/8575584bb25cd052ff7920f910c779d9)**          | Easy dark mode with one line CSS for websites              | CSS                |
+| **[No Inspect](https://gist.github.com/whoismh11/0411cf05fb852e8112354151fbc2ba90)**         | No right click and no inspect JavaScript code for websites | JavaScript         |
+| **[.htaccess Security](https://gist.github.com/whoismh11/e1092cc584297a6c01c7d00961721d24)** | Apache .htaccess file security config                      | Apache             |
 
-<!-- Keep this list short (4 items max). Star/fork badges are dynamic via shields.io — do not hardcode counts. -->
+#### GAME SERVER SCRIPTING
 
-- **[OWASP WSTG (fa-IR)](https://github.com/whoismh11/owasp-wstg-fa)** — official Persian translation of the OWASP Web Security Testing Guide, listed upstream ![stars](https://img.shields.io/github/stars/whoismh11/owasp-wstg-fa?style=flat-square) ![forks](https://img.shields.io/github/forks/whoismh11/owasp-wstg-fa?style=flat-square)
-- **[MTA NaaB:RPG](https://github.com/whoismh11/mta-naabrpg-gamemode)** — complete Persian GTA:SA role-play server: MySQL, jobs, banking, VIP, admin panel ![stars](https://img.shields.io/github/stars/whoismh11/mta-naabrpg-gamemode?style=flat-square)
-- **[Tournaments Template](https://github.com/whoismh11/tournaments-template)** — tournament site template with Name Picker and Team Generator web apps ![stars](https://img.shields.io/github/stars/whoismh11/tournaments-template?style=flat-square)
-- **[PlutoT6 Scripts](https://github.com/whoismh11/plutot6-scripts)** — GSC scripts for Plutonium T6 (BO2) game servers ![stars](https://img.shields.io/github/stars/whoismh11/plutot6-scripts?style=flat-square)
+| Name                                                                         | Description                                       | Technology |
+| ---------------------------------------------------------------------------- | ------------------------------------------------- | ---------- |
+| **[PlutoT6 Scripts](https://github.com/whoismh11/plutot6-scripts)**          | Plutonium T6 (BO2) scripts                        | GSC        |
+| **[PlutoIW5 Scripts](https://github.com/whoismh11/plutoiw5-scripts)**        | Plutonium IW5 (MW3) scripts                       | GSC        |
+| **[TeknoMW3 Adminmodes](https://github.com/whoismh11/teknomw3-adminmodes)**  | TeknoMW3 MyAdmin & NaaBAdmin advanced admin-modes | C#         |
+| **[MTA:SA RPG Gamemode](https://github.com/whoismh11/mta-naabrpg-gamemode)** | GTA:SA MTA NaaB:RPG advanced game-mode (fa-IR)    | Lua        |
+| **[SA-MP Mapping](https://github.com/whoismh11/samp-mapping)**               | Some GTA:SA (SA-MP) map-edits                     | Pawn       |
 
-## `~/arsenal`
+#### PARSVTIGER
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,py,c,cs,lua,php,js,jquery,nodejs,html,css,mysql,vscode&theme=dark" alt="Tech stack: Linux, Bash, Git, Python, C, C#, Lua, PHP, JavaScript, jQuery, Node.js, HTML, CSS, MySQL, VS Code" loading="lazy" />
-</p>
+| Name                                                                              | Description                               | Technology         |
+| --------------------------------------------------------------------------------- | ----------------------------------------- | ------------------ |
+| **[ParsVT Requirements Checker](https://github.com/ParsVT/requirements-checker)** | ParsVT CRM requirements checker           | PHP, HTML, CSS, JS |
+| **[ParsVT Installer](https://github.com/ParsVT/linux-installer)**                 | ParsVT CRM installation script            | Bash, Shell, PHP   |
 
-- **Security & Systems** — `OWASP` `Linux` `Bash` `Apache` `Git`
-- **Web Development & Design** — `HTML/CSS` `JavaScript` `jQuery` `PHP` `MySQL` `Node.js`
-- **Software Engineering** — `Python` `C` `C#` `Lua` `Pawn` `GSC`
-- **Game Servers & Lab** — `MTA` `Plutonium` `TeknoMW3` `SA-MP` `Jupyter`
+#### BOT DEVELOPMENT
 
-## `~/work`
+| Name                                                        | Description        | Technology |
+| ----------------------------------------------------------- | ------------------ | ---------- |
+| **[Discord Bot](https://github.com/whoismh11/discord-bot)** | GAMEGG Discord bot | JavaScript |
+| **[Twitch Bot](https://github.com/whoismh11/twitch-bot)**   | GAMEGG Twitch bot  | JavaScript |
 
-<!-- Grouped list (instead of a wide table) so it renders well on mobile and stays readable in source. Covers every repo/gist; flagship items are not repeated here. -->
+#### COURSES LABORATORY
 
-- **Security** — [.htaccess](https://gist.github.com/whoismh11/e1092cc584297a6c01c7d00961721d24) Apache hardening ·
-  [No Inspect](https://gist.github.com/whoismh11/0411cf05fb852e8112354151fbc2ba90) client-side deterrent
-  (+ OWASP WSTG in flagship)
-- **Engineering** — [Retro Design](https://github.com/whoismh11/retro-design-template) site template ·
-  [Smoke](https://github.com/whoismh11/smoke-template) lightweight template ·
-  [NaaB Clan](https://naabclan.ir) clan template (live demo, self-hosted) ·
-  [MH11](https://mh11.ir) personal template (live demo, self-hosted) ·
-  [Dark Mode](https://gist.github.com/whoismh11/8575584bb25cd052ff7920f910c779d9) one-line CSS ·
-  [ParsVT Checker](https://github.com/ParsVT/requirements-checker) CRM preflight ·
-  [ParsVT Installer](https://github.com/ParsVT/linux-installer) deploy automation ·
-  [Discord](https://github.com/whoismh11/discord-bot) / [Twitch](https://github.com/whoismh11/twitch-bot) bots
-  (+ Tournaments in flagship)
-- **Game servers** — [PlutoIW5](https://github.com/whoismh11/plutoiw5-scripts) MW3 scripts ·
-  [TeknoMW3](https://github.com/whoismh11/teknomw3-adminmodes) C# admin modes ·
-  [SA-MP Mapping](https://github.com/whoismh11/samp-mapping) map edits
-  (+ MTA:RPG, PlutoT6 in flagship)
-- **Lab** — [Computer Vision](https://github.com/whoismh11/computer-vision) experiments ·
-  [Microprocessor Lab](https://github.com/whoismh11/microprocessor-lab) low-level C
-- **Archive** — [SMS Bomber](https://github.com/whoismh11/sms-bomber) legacy experiment, kept for history only.
-  Educational purpose — do not misuse. Consider making this repository private or archived.
+| Name                                                                      | Description                        | Technology |
+| ------------------------------------------------------------------------- | ---------------------------------- | ---------- |
+| **[Microprocessor Lab](https://github.com/whoismh11/microprocessor-lab)** | Microprocessor Lab simple examples | C          |
+| **[Computer Vision](https://github.com/whoismh11/computer-vision)**       | Computer Vision simple examples    | Python     |
 
-## `~/activity`
+#### OTHER
 
-<!-- Generated daily by .github/workflows/snake.yml into the `output` branch. -->
+| Name                                                                                            | Description                                               | Technology |
+| ----------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------- |
+| **[SMS Bomber](https://github.com/whoismh11/sms-bomber)**                                       | OTP SMS Bomber (+98)                                      | Python     |
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whoismh11/whoismh11/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/whoismh11/whoismh11/output/github-snake.svg" alt="GitHub contribution snake animation" width="100%" loading="lazy" />
-  </picture>
-</p>
-
-## `~/naab`
-
-<p align="center">
-  <img src="assets/naab-node.svg" alt="MH11 to NaaB Tech ecosystem diagram" width="100%" loading="lazy" />
-</p>
-
-**NaaB Tech** ([naabtech.ir](https://naabtech.ir)) is my cybersecurity and software company. This profile is personal R&D — production ships under NaaB.
-
-## `~/contact`
-
-[mh11.ir](https://mh11.ir) · [naabtech.ir](https://naabtech.ir) · [LinkedIn](https://www.linkedin.com/in/whoismh11) · [Instagram](https://www.instagram.com/whoismh11) · [YouTube](https://www.youtube.com/@whoismh11) · [CV](assets/cv.pdf) · ☕ [Donate (ZarinPal)](https://zarinp.al/whoismh11)
-
-Best first contact: **LinkedIn**.
-
-```text
-[root@mh11 ~]# exit
-logout — connection to mh11 closed.
-```
+Do you want to buy me coffee? [Donate (ZarinPal)](https://zarinp.al/whoismh11)
