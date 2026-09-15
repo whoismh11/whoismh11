@@ -1,19 +1,13 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="MH11 — root@mh11 terminal" width="100%" />
+  <img src="assets/hero.svg" alt="MH11 status bar — cybersecurity, software and web development, networks" width="100%" />
 </p>
 
 <p align="center">
-  <b>Cybersecurity · Software &amp; Web Development · Networks</b>
-  <br />
-  <sub>Founder &amp; CEO of <a href="https://naabtech.ir">NaaB Tech</a> — I break web apps (legally), harden them, and ship software around them.</sub>
+  <sub>Founder &amp; CEO @ <a href="https://naabtech.ir">NaaB Tech</a> — I break web apps (legally), harden them, and ship software around them.</sub>
 </p>
 
 <p align="center">
-  <a href="https://mh11.ir"><img src="https://img.shields.io/badge/mh11.ir-0d1117?style=flat-square&logo=googlechrome&logoColor=00e676" alt="Website" /></a>
-  <a href="https://naabtech.ir"><img src="https://img.shields.io/badge/NaaB_Tech-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0MiIgZmlsbD0iIzAwZTY3NiIvPjwvc3ZnPg==" alt="NaaB Tech" /></a>
-  <a href="https://linkedin.com/in/whoismh11"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/whoismh11"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square" alt="Instagram" /></a>
-  <a href="assets/cv.pdf"><img src="https://img.shields.io/badge/CV-0d1117?style=flat-square&logo=adobeacrobatreader&logoColor=00e676" alt="CV" /></a>
+  <sub><a href="https://mh11.ir">mh11.ir</a> · <a href="https://naabtech.ir">naabtech.ir</a> · <a href="https://linkedin.com/in/whoismh11">linkedin</a> · <a href="https://instagram.com/whoismh11">instagram</a> · <a href="assets/cv.pdf">cv</a></sub>
 </p>
 
 ## `$ whoami`
@@ -32,14 +26,14 @@ $ focus --current
 
 Offense-informed defense, shipped as real software and interfaces: a security knowledge base for Persian-speaking testers next to full game-server platforms, production tooling, and hand-built web front-ends — personal R&D under my own ecosystem, **NaaB Tech**.
 
-## `$ ls ~/flagship`
+## `~/flagship`
 
-- **[OWASP WSTG (fa-IR)](https://github.com/whoismh11/owasp-wstg-fa)** — official Persian translation of the OWASP Web Security Testing Guide, listed upstream (26+ stars, 4+ forks)
-- **[MTA NaaB:RPG](https://github.com/whoismh11/mta-naabrpg-gamemode)** — complete Persian GTA:SA role-play server: MySQL, jobs, banking, VIP, admin panel (12+ stars, 7+ forks)
-- **[Tournaments Template](https://github.com/whoismh11/tournaments-template)** — tournament site template with Name Picker and Team Generator web apps (8+ stars)
-- **[PlutoT6 Scripts](https://github.com/whoismh11/plutot6-scripts)** — GSC scripts for Plutonium T6 (BO2) game servers (6+ stars)
+- **[OWASP WSTG (fa-IR)](https://github.com/whoismh11/owasp-wstg-fa)** — official Persian translation of the OWASP Web Security Testing Guide, listed upstream (25+ stars, 4+ forks)
+- **[MTA NaaB:RPG](https://github.com/whoismh11/mta-naabrpg-gamemode)** — complete Persian GTA:SA role-play server: MySQL, jobs, banking, VIP, admin panel (10+ stars, 5+ forks)
+- **[Tournaments Template](https://github.com/whoismh11/tournaments-template)** — tournament site template with Name Picker and Team Generator web apps (5+ stars)
+- **[PlutoT6 Scripts](https://github.com/whoismh11/plutot6-scripts)** — GSC scripts for Plutonium T6 (BO2) game servers (5+ stars)
 
-## `$ cat ./arsenal`
+## `~/arsenal`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,git,py,c,cs,lua,php,js,jquery,nodejs,html,css,mysql,vscode&theme=dark" alt="Tech stack" />
@@ -50,7 +44,7 @@ Offense-informed defense, shipped as real software and interfaces: a security kn
 - **Software Engineering** — `Python` `C` `C#` `Lua` `Pawn` `GSC`
 - **Game Servers & Lab** — `MTA` `Plutonium` `TeknoMW3` `SA-MP` `Jupyter`
 
-## `$ find ./work`
+## `~/work`
 
 | Domain | Selected work |
 | --- | --- |
@@ -60,11 +54,8 @@ Offense-informed defense, shipped as real software and interfaces: a security kn
 | Lab | [Computer Vision](https://github.com/whoismh11/computer-vision) experiments · [Microprocessor Lab](https://github.com/whoismh11/microprocessor-lab) low-level C |
 | Archive | [SMS Bomber](https://github.com/whoismh11/sms-bomber) legacy experiment, kept for history |
 
-## `$ systemctl status mh11`
+## `~/activity`
 
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=whoismh11&theme=transparent&ring=00e676&fire=00e676&currStreakNum=00e676&currStreakLabel=00e676&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&background=0d1117&border_radius=8&hide_border=true" alt="Contribution streak" />
-</p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whoismh11/whoismh11/output/github-snake-dark.svg" />
@@ -72,7 +63,7 @@ Offense-informed defense, shipped as real software and interfaces: a security kn
   </picture>
 </p>
 
-## `$ cat /etc/naab`
+## `~/naab`
 
 <p align="center">
   <img src="assets/naab-node.svg" alt="MH11 to NaaB Tech ecosystem diagram" width="100%" />
@@ -80,9 +71,11 @@ Offense-informed defense, shipped as real software and interfaces: a security kn
 
 **NaaB Tech** ([naabtech.ir](https://naabtech.ir)) is my cybersecurity and software company. This profile is personal R&D — production ships under NaaB.
 
-## `$ cat ./contact`
+## `~/contact`
 
 [mh11.ir](https://mh11.ir) · [naabtech.ir](https://naabtech.ir) · [LinkedIn](https://linkedin.com/in/whoismh11) · [Instagram](https://instagram.com/whoismh11) · [YouTube](https://youtube.com/@whoismh11) · [CV](assets/cv.pdf)
+
+Best first contact: **LinkedIn**.
 
 ```text
 [root@mh11 ~]# exit
