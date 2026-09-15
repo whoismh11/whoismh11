@@ -64,4 +64,4 @@ I am a master's student in Artificial Intelligence. My interests are Artificial 
 | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------- |
 | **[SMS Bomber](https://github.com/whoismh11/sms-bomber)**                                       | OTP SMS Bomber (+98)                                      | Python     |
 
-Do you want to buy me coffee? [Donate (ZarinPal)](https://zarinp.al/whoismh11)
+Do you want to buy me coffee? [Donate (Reymit)](https://reymit.ir/mh11)
