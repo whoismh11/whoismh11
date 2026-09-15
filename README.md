@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <sub><a href="https://mh11.ir">mh11.ir</a> · <a href="https://naabtech.ir">naabtech.ir</a> · <a href="https://linkedin.com/in/whoismh11">linkedin</a> · <a href="https://instagram.com/whoismh11">instagram</a> · <a href="assets/cv.pdf">cv</a></sub>
+  <sub><a href="https://mh11.ir">mh11.ir</a> · <a href="https://naabtech.ir">naabtech.ir</a> · <a href="https://www.linkedin.com/in/whoismh11">linkedin</a> · <a href="https://www.instagram.com/whoismh11">instagram</a> · <a href="assets/cv.pdf">cv</a></sub>
 </p>
 
 ## `$ whoami`
@@ -28,15 +28,17 @@ Offense-informed defense, shipped as real software and interfaces: a security kn
 
 ## `~/flagship`
 
-- **[OWASP WSTG (fa-IR)](https://github.com/whoismh11/owasp-wstg-fa)** — official Persian translation of the OWASP Web Security Testing Guide, listed upstream (25+ stars, 4+ forks)
-- **[MTA NaaB:RPG](https://github.com/whoismh11/mta-naabrpg-gamemode)** — complete Persian GTA:SA role-play server: MySQL, jobs, banking, VIP, admin panel (10+ stars, 5+ forks)
-- **[Tournaments Template](https://github.com/whoismh11/tournaments-template)** — tournament site template with Name Picker and Team Generator web apps (5+ stars)
-- **[PlutoT6 Scripts](https://github.com/whoismh11/plutot6-scripts)** — GSC scripts for Plutonium T6 (BO2) game servers (5+ stars)
+<!-- Keep this list short (4 items max). Star/fork badges are dynamic via shields.io — do not hardcode counts. -->
+
+- **[OWASP WSTG (fa-IR)](https://github.com/whoismh11/owasp-wstg-fa)** — official Persian translation of the OWASP Web Security Testing Guide, listed upstream ![stars](https://img.shields.io/github/stars/whoismh11/owasp-wstg-fa?style=flat-square) ![forks](https://img.shields.io/github/forks/whoismh11/owasp-wstg-fa?style=flat-square)
+- **[MTA NaaB:RPG](https://github.com/whoismh11/mta-naabrpg-gamemode)** — complete Persian GTA:SA role-play server: MySQL, jobs, banking, VIP, admin panel ![stars](https://img.shields.io/github/stars/whoismh11/mta-naabrpg-gamemode?style=flat-square)
+- **[Tournaments Template](https://github.com/whoismh11/tournaments-template)** — tournament site template with Name Picker and Team Generator web apps ![stars](https://img.shields.io/github/stars/whoismh11/tournaments-template?style=flat-square)
+- **[PlutoT6 Scripts](https://github.com/whoismh11/plutot6-scripts)** — GSC scripts for Plutonium T6 (BO2) game servers ![stars](https://img.shields.io/github/stars/whoismh11/plutot6-scripts?style=flat-square)
 
 ## `~/arsenal`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,py,c,cs,lua,php,js,jquery,nodejs,html,css,mysql,vscode&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,py,c,cs,lua,php,js,jquery,nodejs,html,css,mysql,vscode&theme=dark" alt="Tech stack: Linux, Bash, Git, Python, C, C#, Lua, PHP, JavaScript, jQuery, Node.js, HTML, CSS, MySQL, VS Code" loading="lazy" />
 </p>
 
 - **Security & Systems** — `OWASP` `Linux` `Bash` `Apache` `Git`
@@ -46,34 +48,49 @@ Offense-informed defense, shipped as real software and interfaces: a security kn
 
 ## `~/work`
 
-| Domain | Selected work |
-| --- | --- |
-| Security | [.htaccess](https://gist.github.com/whoismh11/e1092cc584297a6c01c7d00961721d24) Apache hardening · [No Inspect](https://gist.github.com/whoismh11/0411cf05fb852e8112354151fbc2ba90) client-side deterrent (+ OWASP WSTG in flagship) |
-| Engineering | [Retro Design](https://github.com/whoismh11/retro-design-template) site template · [Smoke](https://github.com/whoismh11/smoke-template) lightweight template · [Dark Mode](https://gist.github.com/whoismh11/8575584bb25cd052ff7920f910c779d9) one-line CSS · [ParsVT Checker](https://github.com/ParsVT/requirements-checker) CRM preflight · [ParsVT Installer](https://github.com/ParsVT/linux-installer) deploy automation · [Discord](https://github.com/whoismh11/discord-bot) / [Twitch](https://github.com/whoismh11/twitch-bot) bots (+ Tournaments in flagship) |
-| Game servers | [PlutoIW5](https://github.com/whoismh11/plutoiw5-scripts) MW3 scripts · [TeknoMW3](https://github.com/whoismh11/teknomw3-adminmodes) C# admin modes · [SA-MP Mapping](https://github.com/whoismh11/samp-mapping) map edits (+ MTA:RPG, PlutoT6 in flagship) |
-| Lab | [Computer Vision](https://github.com/whoismh11/computer-vision) experiments · [Microprocessor Lab](https://github.com/whoismh11/microprocessor-lab) low-level C |
-| Archive | [SMS Bomber](https://github.com/whoismh11/sms-bomber) legacy experiment, kept for history |
+<!-- Grouped list (instead of a wide table) so it renders well on mobile and stays readable in source. -->
+
+- **Security** — [.htaccess](https://gist.github.com/whoismh11/e1092cc584297a6c01c7d00961721d24) Apache hardening ·
+  [No Inspect](https://gist.github.com/whoismh11/0411cf05fb852e8112354151fbc2ba90) client-side deterrent
+  (+ OWASP WSTG in flagship)
+- **Engineering** — [Retro Design](https://github.com/whoismh11/retro-design-template) site template ·
+  [Smoke](https://github.com/whoismh11/smoke-template) lightweight template ·
+  [Dark Mode](https://gist.github.com/whoismh11/8575584bb25cd052ff7920f910c779d9) one-line CSS ·
+  [ParsVT Checker](https://github.com/ParsVT/requirements-checker) CRM preflight ·
+  [ParsVT Installer](https://github.com/ParsVT/linux-installer) deploy automation ·
+  [Discord](https://github.com/whoismh11/discord-bot) / [Twitch](https://github.com/whoismh11/twitch-bot) bots
+  (+ Tournaments in flagship)
+- **Game servers** — [PlutoIW5](https://github.com/whoismh11/plutoiw5-scripts) MW3 scripts ·
+  [TeknoMW3](https://github.com/whoismh11/teknomw3-adminmodes) C# admin modes ·
+  [SA-MP Mapping](https://github.com/whoismh11/samp-mapping) map edits
+  (+ MTA:RPG, PlutoT6 in flagship)
+- **Lab** — [Computer Vision](https://github.com/whoismh11/computer-vision) experiments ·
+  [Microprocessor Lab](https://github.com/whoismh11/microprocessor-lab) low-level C
+- **Archive** — [SMS Bomber](https://github.com/whoismh11/sms-bomber) legacy experiment, kept for history only.
+  Educational purpose — do not misuse. Consider making this repository private or archived.
 
 ## `~/activity`
+
+<!-- Generated daily by .github/workflows/snake.yml into the `output` branch. -->
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whoismh11/whoismh11/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/whoismh11/whoismh11/output/github-snake.svg" alt="Contribution snake" width="100%" />
+    <img src="https://raw.githubusercontent.com/whoismh11/whoismh11/output/github-snake.svg" alt="GitHub contribution snake animation" width="100%" loading="lazy" />
   </picture>
 </p>
 
 ## `~/naab`
 
 <p align="center">
-  <img src="assets/naab-node.svg" alt="MH11 to NaaB Tech ecosystem diagram" width="100%" />
+  <img src="assets/naab-node.svg" alt="MH11 to NaaB Tech ecosystem diagram" width="100%" loading="lazy" />
 </p>
 
 **NaaB Tech** ([naabtech.ir](https://naabtech.ir)) is my cybersecurity and software company. This profile is personal R&D — production ships under NaaB.
 
 ## `~/contact`
 
-[mh11.ir](https://mh11.ir) · [naabtech.ir](https://naabtech.ir) · [LinkedIn](https://linkedin.com/in/whoismh11) · [Instagram](https://instagram.com/whoismh11) · [YouTube](https://youtube.com/@whoismh11) · [CV](assets/cv.pdf)
+[mh11.ir](https://mh11.ir) · [naabtech.ir](https://naabtech.ir) · [LinkedIn](https://www.linkedin.com/in/whoismh11) · [Instagram](https://www.instagram.com/whoismh11) · [YouTube](https://www.youtube.com/@whoismh11) · [CV](assets/cv.pdf)
 
 Best first contact: **LinkedIn**.
 
